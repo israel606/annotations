@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f97d3c6952000891",
+        "id": "8341d00d222ab858",
         "type": "tabs",
         "children": [
           {
-            "id": "714bb6a3679fdd29",
+            "id": "89d2e29f762b4f75",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -143,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "44a85b2097675eb2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +168,10 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "714bb6a3679fdd29",
+  "active": "89d2e29f762b4f75",
   "lastOpenFiles": []
 }
